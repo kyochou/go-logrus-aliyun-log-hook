@@ -12,7 +12,7 @@
 
 ## 安装
 
-`go get -u github.com/GotaX/logrus-aliyun-log-hook`
+`go get -u github.com/kyochou/go-logrus-aliyun-log-hook`
 
 ## 使用指南
 
@@ -80,4 +80,3 @@ I/O 部分对比, 配置: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz
   ├ github.com/pierrec/lz4
   └ github.com/sirupsen/logrus
 ```
-
