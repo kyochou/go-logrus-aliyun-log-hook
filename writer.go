@@ -18,7 +18,7 @@ import (
 	"github.com/golang/protobuf/proto"
 	"github.com/pierrec/lz4"
 
-	"logrus-aliyun-log-hook/api"
+	"github.com/kyochou/go-logrus-aliyun-log-hook/api"
 )
 
 var (

@@ -1,4 +1,4 @@
-module logrus-aliyun-log-hook
+module github.com/kyochou/go-logrus-aliyun-log-hook
 
 go 1.13
 

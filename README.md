@@ -26,7 +26,7 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	"logrus-aliyun-log-hook"
+	"github.com/kyochou/go-logrus-aliyun-log-hook"
 )
 
 func main() {

@@ -10,7 +10,7 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	"logrus-aliyun-log-hook/internal/validator"
+	"github.com/kyochou/go-logrus-aliyun-log-hook/internal/validator"
 )
 
 const (
