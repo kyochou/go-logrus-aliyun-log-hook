@@ -1,6 +1,6 @@
 #  Aliyun Log Hook for [Logrus](https://github.com/sirupsen/logrus)
 
-[![godoc reference](https://godoc.org/github.com/GotaX/logrus-aliyun-log-hook?status.svg)](https://godoc.org/github.com/GotaX/logrus-aliyun-log-hook)
+[![godoc reference](https://godoc.org/logrus-aliyun-log-hook?status.svg)](https://godoc.org/logrus-aliyun-log-hook)
 
 此 Hook 用于将通过 logrus 记录的日志发送到阿里云日志服务. 
 
@@ -26,7 +26,7 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	"github.com/GotaX/logrus-aliyun-log-hook"
+	"logrus-aliyun-log-hook"
 )
 
 func main() {
