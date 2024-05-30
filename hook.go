@@ -30,7 +30,7 @@ var (
 		logrus.WarnLevel,
 		logrus.InfoLevel,
 	}
-	// Mapping to syslog level
+	// SyslogLevelMapping Mapping to [syslog level](https://en.wikipedia.org/wiki/Syslog#Severity_level)
 	SyslogLevelMapping = func() LevelMapping {
 		m := [7]int{0, 2, 3, 4, 6, 7, 8}
 		return func(level logrus.Level) int { return m[level] }
